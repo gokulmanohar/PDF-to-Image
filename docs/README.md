@@ -20,12 +20,10 @@ Every single execution format has its own output directory inside, where the scr
 
 **`3. Convert Random Pages.bat`**  Place all the PDF documents in the *`workplace/source/random`* directory, Run the bat file. Random pages within the documents will be saved.
 
-## REQUIREMENTS
+### REQUIREMENTS
 Install following,
 ```
 PyPDF2 -> pip install PyPDF2
 pdf2image -> pip install pdf2image
 tqdm -> pip install tqdm
 ```
-Download if needed, but already provided in the directory.
-Poppler: http://blog.alivate.com.au/poppler-windows/
