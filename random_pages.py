@@ -90,5 +90,4 @@ REQUIREMENTS:
     1. PyPDF2 -> pip install PyPDF2
     2. pdf2image -> pip install pdf2image
     3. tqdm -> pip install tqdm
-    4. Poppler -> http://blog.alivate.com.au/poppler-windows/
 """

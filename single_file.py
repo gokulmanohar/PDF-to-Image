@@ -54,5 +54,4 @@ except:
 REQUIREMENTS:
     1. pdf2image -> pip install pdf2image
     2. tqdm -> pip install tqdm
-    3. Poppler -> http://blog.alivate.com.au/poppler-windows/
 """
