@@ -16,9 +16,9 @@ Every single execution format has its own output directory inside, where the scr
 ### Usage
 **`1. Convert Single File.bat`** Simple & straight-forward, run and pick a file.  
 
-**`2. Convert Batch File.bat`** Place all the PDF documents in the *`workplace/source/batch`* directory, Run the bat file.  
+**`2. Convert Batch File.bat`** Place all the PDF documents in the *`workpace/source/batch`* directory, Run the bat file.  
 
-**`3. Convert Random Pages.bat`**  Place all the PDF documents in the *`workplace/source/random`* directory, Run the bat file. Random pages within the documents will be saved.
+**`3. Convert Random Pages.bat`**  Place all the PDF documents in the *`workpace/source/random`* directory, Run the bat file. Random pages within the documents will be saved.
 
 ### REQUIREMENTS
 Install following,
