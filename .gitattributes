@@ -1,4 +1,1 @@
-*.roff linguist-language=Python
-*.c++ linguist-language=Python
-# *.Python linguist-detectable=true
-# *.Batchfile linguist-detectable=true
+_internal/poppler-0.68.0 -linguist-detectable
