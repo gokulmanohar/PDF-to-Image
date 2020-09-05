@@ -1,1 +1,3 @@
-_internal/poppler-0.68.0 -linguist-detectable
+_internal/poppler-0.68.0 -linguist-vendored=false
+*.roff linguist-detectable==false
+*.c++ linguist-detectable==false
