@@ -1,4 +1,4 @@
-*.roff linguist-detectable=Python
-*.c++ linguist-detectable=Python
+*.roff linguist-language=python
+*.c++ linguist-language=python
 # *.Python linguist-detectable=true
 # *.Batchfile linguist-detectable=true
