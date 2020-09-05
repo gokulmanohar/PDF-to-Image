@@ -72,6 +72,8 @@ else:
                         continue
                     else:
                         random_page_numbers.append(n)
+        if len(random_page_numbers) == 0:
+            random_page_numbers.append(1)
         print("\nSaving pages", random_page_numbers,"as images\n")     
 
         # EXTRACTING THE IMAGES
