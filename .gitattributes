@@ -1,0 +1,4 @@
+*.roff linguist-detectable=false
+*.c++ linguist-detectable=false
+*.python linguist-detectable=true
+*.batchfile linguist-detectable=true
