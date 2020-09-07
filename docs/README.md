@@ -24,6 +24,10 @@ Every single execution format has its own output directory inside, where the scr
 Install PyPDF2, pdf2image, tqdm.
 ```
 pip install PyPDF2
+```
+```
 pip install pdf2image
+```
+```
 pip install tqdm
 ```
