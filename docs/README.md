@@ -21,7 +21,7 @@ Every single execution format has its own output directory inside, where the scr
 **`3. Convert Random Pages.bat`**  Place all the PDF documents in the *`workpace/source/random`* directory, Run the bat file. Random pages within the documents will be saved.
 
 ### REQUIREMENTS
-Install PyPDF2, pdf2image, tqdm.
+Install [PyPDF2](https://pypi.org/project/PyPDF2/), [pdf2image](https://pypi.org/project/tqdm/), [tqdm](https://pypi.org/project/tqdm/).
 ```
 pip install PyPDF2
 ```
