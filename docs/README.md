@@ -6,8 +6,8 @@ Convert PDF documents into images with single, batch or random pages processing.
 ### Options
 Effortlessly convert PDF onto images with a single execution of, 
 
-`1. Convert Single File.bat`   
-`2. Convert Batch File.bat` 
+`1. Convert Single File.bat`  
+`2. Convert Batch File.bat`   
 `3. Convert Random Pages.bat`  
 
 ### Organised
