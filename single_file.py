@@ -8,11 +8,7 @@ from tkinter import Tk
 from tkinter.filedialog import askopenfilename
 from tqdm import tqdm
 from pdf2image import convert_from_path
-from pdf2image.exceptions import (
-    PDFInfoNotInstalledError,
-    PDFPageCountError,
-    PDFSyntaxError
-)
+
 
 # OPENING THE GUI FILE PICKER
 Tk().withdraw()
