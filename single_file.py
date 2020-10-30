@@ -24,7 +24,7 @@ else:
     print("\nProcessing . . .")
 
 # PROVIDING THE ABSOLUTE PATH FOR POPPLER
-abs_poppler_path = os.path.abspath("_internal/poppler-0.68.0/bin")
+abs_poppler_path = os.path.abspath("_internal/poppler/bin")
 
 # CREATING FOLDER
 if not os.path.exists("workspace/output/single/"+file_name):

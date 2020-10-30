@@ -19,7 +19,7 @@ file_list = os.listdir("workspace/source/random")
 file_count = 0
 
 # PROVIDING THE ABSOLUTE PATH FOR POPPLER
-abs_poppler_path = os.path.abspath("_internal/poppler-0.68.0/bin")
+abs_poppler_path = os.path.abspath("_internal/poppler/bin")
 
 # ITTERATING THROUGH THE WHOLE LIST
 if not file_list:
