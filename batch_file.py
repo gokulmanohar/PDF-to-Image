@@ -7,11 +7,7 @@ import tempfile
 from PyPDF2 import PdfFileReader
 from tqdm import tqdm
 from pdf2image import convert_from_path
-from pdf2image.exceptions import (
-    PDFInfoNotInstalledError,
-    PDFPageCountError,
-    PDFSyntaxError
-)
+
 
 # LISTING ALL FILES IN THE SOURCE DIRECTORY
 file_list = os.listdir("workspace/source/batch")
