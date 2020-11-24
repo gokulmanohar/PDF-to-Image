@@ -21,9 +21,9 @@ Every single execution format has its own output directory inside, where the scr
 
 `1. Convert Single File.exe` Simple & straight-forward, run and pick a file.  
 
-`2. Convert Batch File.exe` Place all the PDF documents in the *`workspace/source/batch`* directory, Run the bat file.  
+`2. Convert Batch File.exe` Place all the PDF documents in the *`workspace/source/batch`* directory, Run the exe file.  
 
-`3. Convert Random Pages.exe`  Place all the PDF documents in the *`workspace/source/random`* directory, Run the bat file. Random pages within the documents will be saved.
+`3. Convert Random Pages.exe`  Place all the PDF documents in the *`workspace/source/random`* directory, Run the exe file. Random pages within the documents will be saved.
 
 ### REQUIREMENTS [For contributers]  
 [PyPDF2](https://pypi.org/project/PyPDF2/)
