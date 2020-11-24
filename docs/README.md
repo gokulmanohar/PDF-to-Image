@@ -10,17 +10,22 @@ Effortlessly convert PDF onto images with a single execution of,
 `2. Convert Batch File.bat`   
 `3. Convert Random Pages.bat`  
 
+### Download
+[Windows 10](https://github.com/gokulmanohar/PDF-to-Image/releases)
+
 ### Organised
 Every single execution format has its own output directory inside, where the script stores the output images. Also a Progress bar indicates the progress of the conversion.
 
 ### Usage
-`1. Convert Single File.bat` Simple & straight-forward, run and pick a file.  
+[_Note for contributors: Here the instructions are for [downloadable](#Download) .exe files. But the instructions are same while using .bat or .exe files_]
 
-`2. Convert Batch File.bat` Place all the PDF documents in the *`workspace/source/batch`* directory, Run the bat file.  
+`1. Convert Single File.exe` Simple & straight-forward, run and pick a file.  
 
-`3. Convert Random Pages.bat`  Place all the PDF documents in the *`workspace/source/random`* directory, Run the bat file. Random pages within the documents will be saved.
+`2. Convert Batch File.exe` Place all the PDF documents in the *`workspace/source/batch`* directory, Run the bat file.  
 
-### REQUIREMENTS  
+`3. Convert Random Pages.exe`  Place all the PDF documents in the *`workspace/source/random`* directory, Run the bat file. Random pages within the documents will be saved.
+
+### REQUIREMENTS [For contributers]  
 [PyPDF2](https://pypi.org/project/PyPDF2/)
 ```
 pip install PyPDF2
